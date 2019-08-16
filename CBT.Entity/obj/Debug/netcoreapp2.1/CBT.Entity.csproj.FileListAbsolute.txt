@@ -1,0 +1,9 @@
+C:\MVC\CBT.Web\CBT.Entity\bin\Debug\netcoreapp2.1\CBT.Entity.deps.json
+C:\MVC\CBT.Web\CBT.Entity\bin\Debug\netcoreapp2.1\CBT.Entity.dll
+C:\MVC\CBT.Web\CBT.Entity\bin\Debug\netcoreapp2.1\CBT.Entity.pdb
+C:\MVC\CBT.Web\CBT.Entity\obj\Debug\netcoreapp2.1\CBT.Entity.csproj.CoreCompileInputs.cache
+C:\MVC\CBT.Web\CBT.Entity\obj\Debug\netcoreapp2.1\CBT.Entity.AssemblyInfoInputs.cache
+C:\MVC\CBT.Web\CBT.Entity\obj\Debug\netcoreapp2.1\CBT.Entity.AssemblyInfo.cs
+C:\MVC\CBT.Web\CBT.Entity\obj\Debug\netcoreapp2.1\CBT.Entity.dll
+C:\MVC\CBT.Web\CBT.Entity\obj\Debug\netcoreapp2.1\CBT.Entity.pdb
+C:\MVC\CBT.Web\CBT.Entity\obj\Debug\netcoreapp2.1\CBT.Entity.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\MVC\CBT.Web\CBT.Test\bin\Debug\netcoreapp2.1\CBT.Test.deps.json
+C:\MVC\CBT.Web\CBT.Test\bin\Debug\netcoreapp2.1\CBT.Test.dll
+C:\MVC\CBT.Web\CBT.Test\bin\Debug\netcoreapp2.1\CBT.Test.pdb
+C:\MVC\CBT.Web\CBT.Test\obj\Debug\netcoreapp2.1\CBT.Test.csprojAssemblyReference.cache
+C:\MVC\CBT.Web\CBT.Test\obj\Debug\netcoreapp2.1\CBT.Test.csproj.CoreCompileInputs.cache
+C:\MVC\CBT.Web\CBT.Test\obj\Debug\netcoreapp2.1\CBT.Test.AssemblyInfoInputs.cache
+C:\MVC\CBT.Web\CBT.Test\obj\Debug\netcoreapp2.1\CBT.Test.AssemblyInfo.cs
+C:\MVC\CBT.Web\CBT.Test\obj\Debug\netcoreapp2.1\CBT.Test.dll
+C:\MVC\CBT.Web\CBT.Test\obj\Debug\netcoreapp2.1\CBT.Test.pdb
